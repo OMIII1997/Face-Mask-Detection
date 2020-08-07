@@ -6,6 +6,7 @@ In recent trend in world wide Lockdowns due to COVID19 outbreak, as Face Mask is
 On Custom CNN architecture Model training accuracy reached 94% and Validation accuracy 96%.
 
 Data set used for this project is up;oaded on Kaggle and can be downloaded from below link:-
+
 https://www.kaggle.com/omkargurav/face-mask-dataset
 
 With transfer learning using MobieNetV2 architecture training accuracy achieved 98% and validation accuracy 99%.
