@@ -35,7 +35,7 @@ Remaining 5777 images are collected and filtered from Google search engine.
 
 Outputs:->
 
-YouTube
+YouTube Video :->
 
 
 [![Watch the video](https://github.com/OMIII1997/Face-Mask-Detection/blob/master/Images/Preview.png)](https://youtu.be/SKYtiyGPlh0)
