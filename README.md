@@ -38,7 +38,7 @@ Outputs:->
 YouTube
 
 
-[![Watch the video](https://github.com/OMIII1997/Face-Mask-Detection/tree/master/Images/Preview.png)](https://youtu.be/SKYtiyGPlh0)
+[![Watch the video](https://github.com/OMIII1997/Face-Mask-Detection/blob/master/Images/Preview.png)](https://youtu.be/SKYtiyGPlh0)
 
 ![alt text](https://github.com/OMIII1997/Face-Mask-Detection/blob/master/Images/image2_detection.jpg)
 
