@@ -9,6 +9,9 @@ Data set used for this project is up;oaded on Kaggle and can be downloaded from 
 
 https://www.kaggle.com/omkargurav/face-mask-dataset
 
+Kaggle Code Submission:->
+https://www.kaggle.com/omkargurav/face-mask-detection
+
 With transfer learning using MobieNetV2 architecture training accuracy achieved 98% and validation accuracy 99%.
 
 Algorithm : Convolutional Neural Network
