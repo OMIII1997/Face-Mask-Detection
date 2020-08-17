@@ -5,7 +5,7 @@
 In recent trend in world wide Lockdowns due to COVID19 outbreak, as Face Mask is became mandatory for everyone while roaming outside, approach of Deep Learning for Detecting Faces With and Without mask were a good trendy practice. Here I have created a model that detects face mask trained on 7553 images with 3 color channels (RGB).
 On Custom CNN architecture Model training accuracy reached 94% and Validation accuracy 96%.
 
-Data set used for this project is up;oaded on Kaggle and can be downloaded from below link:-
+# Data set used for this project is uploaded on Kaggle and can be downloaded from below link:-
 
 https://www.kaggle.com/omkargurav/face-mask-dataset
 
@@ -20,7 +20,7 @@ Framework : Tensorflow
 
 Accelerator : GPU
 
-Dataset : 7553 RGB Images (With Mask/Without Mask)
+# Dataset : 7553 RGB Images (With Mask/Without Mask)
 
 Dataset Credit:
 
@@ -38,7 +38,7 @@ Remaining 5777 images are collected and filtered from Google search engine.
 
 Outputs:->
 
-YouTube Video :->
+# YouTube Video :->
 
 
 [![Watch the video](https://github.com/OMIII1997/Face-Mask-Detection/blob/master/Images/Preview.png)](https://youtu.be/SKYtiyGPlh0)
